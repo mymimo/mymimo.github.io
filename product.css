@@ -172,3 +172,7 @@ m
 }
 
 .overflow-hidden { overflow: hidden; }
+
+_:-moz-tree-row(hover), html {
+  scroll-behavior: smooth;/*for firefox*/
+}
