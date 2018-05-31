@@ -4,6 +4,29 @@
 The population of older adults in America is increasing faster than ever — and over 90% of them are choosing to live alone. 
 Mimo adds an ambient personal assistant to their lives that they can always talk to by creating an environment of companionship and emotional support. Our vision was to create an assistant so intelligent it responds to your voice. One so immersive, the technology itself disappears into the experience, and empowers users to do more with their voice. 
 
+
+### Link to our Project Website:
+
+### Link to our Project Website's Code: 
+
+### Video Demos of our Project:
+
+### Link to our Project Code: 
+
+
+### Key Components
+
+| Hardware              | Software             |
+| -------------------   |--------------------  |
+| Raspberry Pi 3        | Alexa Voice Services |
+| 32" LCD Display       | Alexa Skills Kit     |
+| Speaker               | HTML/CSS             |
+| Microphone            | Javascript           |
+| Google Calendar API   | Python               |
+| Accuweather API       |                      |
+| Microsoft Azure Queue |                      |
+
+
 ### Features
 
 **1. Tackle your daily events with confidence**
