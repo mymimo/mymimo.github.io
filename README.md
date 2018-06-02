@@ -94,3 +94,7 @@ you — in your living room — ready to help throughout your day. With a redesi
 interface and new, more adjustable voice, Mimo is more powerful than ever. 
 
 We believe that technology is at its best, its most empowering, when it simply disappears.
+
+### Technology Stack Diagram
+
+![Technology Stack Diagram](http://octodex.github.com/images/minion.png)
