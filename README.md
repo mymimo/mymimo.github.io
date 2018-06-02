@@ -11,7 +11,7 @@ Mimo adds an ambient personal assistant to their lives that they can always talk
 
 ### Video Demos of our Project: [Demo 1](), [Demo 2]()
 
-### Link to our Project Code: 
+### Link to our Project Code: https://github.com/rmagee15/mimo
 
 
 ### Key Components
