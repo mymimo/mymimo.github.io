@@ -97,4 +97,5 @@ We believe that technology is at its best, its most empowering, when it simply d
 
 ### Technology Stack Diagram
 
-![Technology Stack Diagram](http://octodex.github.com/images/minion.png)
+![Technology Stack Diagram](/technologies2.jpg)
+
