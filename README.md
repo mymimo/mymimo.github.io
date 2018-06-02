@@ -62,6 +62,21 @@ With Mimo, you can now learn to add more natural and intuitive skills that fit i
 
 ### Demo #2 - Looking at your Calendar and Exploring skills
 
-[![Demo 2](https://img.youtube.com/vi/zmxw1mLzsIk/0.jpg)](https://www.youtube.com/watch?v=zmxw1mLzsIk)
+[![Demo 2](https://img.youtube.com/vi/bl2Kor7aM2Y/0.jpg)](https://www.youtube.com/watch?v=bl2Kor7aM2Y)
 
-### 
+### Our Demographic
+
+We saw Capstone as an opportunity to create an experience for a 
+demographic that is often overlooked -- older adults. 
+
+
+While technology continues to evolve, it becomes harder for 
+us to adapt to new affordances it presents. It takes time and 
+effort for us to calibrate ourselves to take full advantage of 
+new solutions. This creates a gap between what we can do, 
+and what’s possible. 
+
+Older adults are no different, except, these gaps get wider for 
+them each day. Getting older and living alone contribute in 
+creating health and technical barriers. 
+
