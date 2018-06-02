@@ -80,3 +80,17 @@ Older adults are no different, except, these gaps get wider for
 them each day. Getting older and living alone contribute in 
 creating health and technical barriers. 
 
+### Voice is the primary User Interface for Mimo
+
+With Mimo, we envisioned to create an experience that uses your voice to 
+communicate with technology and get things done. 
+
+This was crucial to implement because it involved the least amount of familiarity 
+with technology, especially for older adults. Technology must deliver incredible 
+capbility without the complexity. This idea was the founding principle for Mimo. 
+
+Talking to Mimo is now an easier, faster way to get things done. It’s always with 
+you — in your living room — ready to help throughout your day. With a redesigned 
+interface and new, more adjustable voice, Mimo is more powerful than ever. 
+
+We believe that technology is at its best, its most empowering, when it simply disappears.
