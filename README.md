@@ -8,7 +8,7 @@ Mimo adds an ambient personal assistant to their lives that they can always talk
 
 ### Link to our Project Website's Code: https://github.com/mymimo/mymimo.github.io
 
-### Video Demos of our Project: [Demo 1](), [Demo 2]()
+### Video Demos of our Project: [Demo 1](https://www.youtube.com/watch?v=zmxw1mLzsIk), [Demo 2](https://www.youtube.com/watch?v=bl2Kor7aM2Y)
 
 ### Link to our Project Code: https://github.com/rmagee15/mimo
 
