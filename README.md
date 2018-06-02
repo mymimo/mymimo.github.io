@@ -12,7 +12,7 @@ Mimo adds an ambient personal assistant to their lives that they can always talk
 
 ### Link to our Project Code: https://github.com/rmagee15/mimo
 
-### Team:
+### Created with love by:
 > Ryan Magee, Software Engineer, ryanmagee015@gmail.com
 
 > Carol Cheng, UX Designer + Researcher, chengy23@uw.edu
